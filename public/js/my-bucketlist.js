@@ -1,6 +1,3 @@
-let invisibleMap;
-
-
 const deleteButtonArray = document.querySelectorAll(".deleteBtn");
 
 deleteButtonArray.forEach(function(listItem) {
