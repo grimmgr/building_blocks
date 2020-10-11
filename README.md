@@ -12,8 +12,8 @@ Of course, the planet is important and we hope that it is around for more than 7
 * [License](##License)
 * [Contributing](##Contributing)
 
-## Installation
-* Visit website 
+## Getting Started
+* Visit <https://se-7-en.herokuapp.com/> 
 * Signup or login!
 
 ## Usage
