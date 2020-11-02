@@ -1,4 +1,6 @@
-# SE7EN                 
+# SE7EN
+
+<img src="screenshot.png" width="350px">
 
 #### Some climate scientists say that we only have seven years left to soften our environmental impact.  If we don't?  The end of the world.  
 
@@ -25,6 +27,7 @@ After logging in:
         
 ## License
 MIT License 2020
+
 
 ## Contributing
 Sarah Hwang,
